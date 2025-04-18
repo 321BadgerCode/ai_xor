@@ -2,6 +2,7 @@
  * @file main.c
  * @brief Simple XOR neural network using fixed-point arithmetic
  * @author Badger Code
+ * @date 2025-4-17
  */
 #include <stdio.h>
 #include <stdlib.h>
